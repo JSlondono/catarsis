@@ -1,5 +1,5 @@
 <?php 
-	const BASE_URL = "http://localhost/catarsis";
+	const BASE_URL = "http://catarsis.jslondono.com";
 	//const BASE_URL = "https://abelosh.com/tiendavirtual";
 
 	//Zona horaria
