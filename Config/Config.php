@@ -1,5 +1,5 @@
 <?php 
-	const BASE_URL = "http://localhost/catarsis/";
+	const BASE_URL = "http://localhost/catarsis/s";
 	
 
 	//Zona horaria
