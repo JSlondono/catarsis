@@ -1,9 +1,9 @@
 <?php 
-	const BASE_URL = "http://catarsis.jslondono.com";
-	//const BASE_URL = "https://abelosh.com/tiendavirtual";
+	const BASE_URL = "http://localhost/catarsis/";
+	
 
 	//Zona horaria
-	date_default_timezone_set('America/Guatemala');
+	date_default_timezone_set('America/Bogota');
 
 	//Datos de conexión a Base de Datos
 	const DB_HOST = "localhost";
@@ -35,7 +35,7 @@
 
 	//Datos envio de correo
 	const NOMBRE_REMITENTE = "Tienda Virtual";
-	const EMAIL_REMITENTE = "	";
+	const EMAIL_REMITENTE = "no-reply@jslondono.com";
 	const NOMBRE_EMPESA = "Tienda Virtual";
 	const WEB_EMPRESA = "www.abelosh.com";
 
